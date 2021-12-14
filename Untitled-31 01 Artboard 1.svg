@@ -4,8 +4,8 @@
 	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#F6711E;stroke:#E0322F;stroke-width:16;stroke-miterlimit:10;}
-	.st1{display:none;fill:#F6711E;stroke:#E0322F;stroke-width:14;stroke-miterlimit:10;stroke-dasharray:12,12,12,12,12,12;}
-	.st2{display:none;fill:#F47021;}
+	.st1{fill:#F6711E;stroke:#E0322F;stroke-width:14;stroke-miterlimit:10;stroke-dasharray:12,12,12,12,12,12;}
+	.st2{fill:#F47021;}
 </style>
 <path class="st0" d="M410.86,1553.07V515.58c0-9.53,7.73-17.26,17.26-17.26h49.49c9.53,0,17.26,7.73,17.26,17.26v1037.49
 	c0,9.53-7.73,17.26-17.26,17.26h-49.49C418.58,1570.33,410.86,1562.6,410.86,1553.07z"/>
